@@ -51,7 +51,7 @@ namespace TestPayment
 
             var values = new Dictionary<string, string>
         {
-            { "aid", "128875" },  // Replace with actual Store ID
+            { "aid", "128871" },  // Replace with actual Store ID
             { "cn", cardNumber },
             { "ed", $"{expiryYear}{expiryMonth}" },
             { "fn", firstName },
