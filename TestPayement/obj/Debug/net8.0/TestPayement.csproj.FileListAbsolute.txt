@@ -1,0 +1,17 @@
+C:\Users\Dell XPS\source\repos\TestPayement\TestPayement\bin\Debug\net8.0\TestPayement.exe
+C:\Users\Dell XPS\source\repos\TestPayement\TestPayement\bin\Debug\net8.0\TestPayement.deps.json
+C:\Users\Dell XPS\source\repos\TestPayement\TestPayement\bin\Debug\net8.0\TestPayement.runtimeconfig.json
+C:\Users\Dell XPS\source\repos\TestPayement\TestPayement\bin\Debug\net8.0\TestPayement.dll
+C:\Users\Dell XPS\source\repos\TestPayement\TestPayement\bin\Debug\net8.0\TestPayement.pdb
+C:\Users\Dell XPS\source\repos\TestPayement\TestPayement\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Dell XPS\source\repos\TestPayement\TestPayement\obj\Debug\net8.0\TestPayement.csproj.AssemblyReference.cache
+C:\Users\Dell XPS\source\repos\TestPayement\TestPayement\obj\Debug\net8.0\TestPayement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell XPS\source\repos\TestPayement\TestPayement\obj\Debug\net8.0\TestPayement.AssemblyInfoInputs.cache
+C:\Users\Dell XPS\source\repos\TestPayement\TestPayement\obj\Debug\net8.0\TestPayement.AssemblyInfo.cs
+C:\Users\Dell XPS\source\repos\TestPayement\TestPayement\obj\Debug\net8.0\TestPayement.csproj.CoreCompileInputs.cache
+C:\Users\Dell XPS\source\repos\TestPayement\TestPayement\obj\Debug\net8.0\TestPaye.4CAD7DB5.Up2Date
+C:\Users\Dell XPS\source\repos\TestPayement\TestPayement\obj\Debug\net8.0\TestPayement.dll
+C:\Users\Dell XPS\source\repos\TestPayement\TestPayement\obj\Debug\net8.0\refint\TestPayement.dll
+C:\Users\Dell XPS\source\repos\TestPayement\TestPayement\obj\Debug\net8.0\TestPayement.pdb
+C:\Users\Dell XPS\source\repos\TestPayement\TestPayement\obj\Debug\net8.0\TestPayement.genruntimeconfig.cache
+C:\Users\Dell XPS\source\repos\TestPayement\TestPayement\obj\Debug\net8.0\ref\TestPayement.dll

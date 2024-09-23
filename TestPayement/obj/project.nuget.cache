@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6f097W/6bQw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell XPS\\source\\repos\\TestPayement\\TestPayement\\TestPayement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell XPS\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
